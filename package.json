@@ -1,0 +1,21 @@
+{
+  "name": "kasnim-na-ispit",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@babylonjs/core": "^7.54.3",
+    "@babylonjs/gui": "^7.54.3"
+  },
+  "devDependencies": {
+    "@babylonjs/inspector": "^7.54.3",
+    "@types/node": "^22.10.2",
+    "typescript": "~5.6.3",
+    "vite": "^6.3.5"
+  }
+}
